@@ -41,6 +41,148 @@ http://bit.do/kdgubdfgddbgb
 
 #EXTINF:-1 channelId="1583" , SP0RT 7V 1
 #EXTBG:#ffffff
+#EXTINF:-1 channelId="2645" , S1C
+#EXTBG:#ffffff
+http://213.13.26.11:1935/live/sic/magellan.m3u8
+#EXTINF:-1 channelId="2645" , S1C
+#EXTBG:#ffffff
+http://213.13.26.11:1935/live/sic/inspirationlinks.m3u8
+
+#EXTINF:-1 channelId="2647" , 7V1
+#EXTBG:#ffffff
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8
+
+#EXTINF:-1 channelId="2646" , S1C N0TÍC1AS
+#EXTBG:#ffffff
+http://213.13.26.11:1935/live/sicnoticias/livestream.m3u8
+#EXTINF:-1 channelId="2646" , S1C N0TÍC1AS
+#EXTBG:#ffffff
+http://213.13.26.11:1935/live/sicnoticias/inspirationlinks.m3u8
+#EXTINF:-1 channelId="2646" , S1C N0TÍC1AS
+#EXTBG:#ffffff
+http://bit.do/kdgubdfgddbgb
+
+#EXTINF:-1 channelId="2648" , 7V1 24
+#EXTBG:#ffffff
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/inspirationlinks.m3u8
+
+#EXTINF:-1 channelId="-1" tvg-logo="http://ilcao.cedilha.net/wp-content/uploads/2014/12/EconomicoTV_logo.png" , ECONOMICO TV
+#EXTBG:#ffffff
+http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
+
+#EXTINF:-1 channelId="-1" tvg-logo="http://ilcao.cedilha.net/wp-content/uploads/2014/12/EconomicoTV_logo.png" , ECONOMICO TV
+#EXTBG:#ffffff
+http://213.13.26.11:1935/live/etv_direto/livestream.m3u8
 
 
 
+
+
+
+#EXTINF:-1 channelId="-1" tvg-logo="http://rtc.cv/admin/imgBD/noticias/desporto01_26_10_2014.jpg" , Desporto
+#EXTBG:http://rtc.cv/admin/imgBD/noticias/desporto01_26_10_2014.jpg
+#EXTSIZE:Big
+https://www.youtube.com/v/urtwG0BjZck 
+
+#EXTINF:-1 channelId="1583" , SP0RT 7V 1
+#EXTBG:#ffffff
+
+#EXTINF:-1 channelId="1585" , SP0RT 7V 3
+#EXTBG:#ffffff
+http://bit.do/8346917t7654673m3u8
+
+#EXTINF:-1 channelId="2834" , Benf1ca
+#EXTBG:#ffffff
+http://bit.do/834691970274833m3u8
+
+#EXTINF:0 channelId="2835" , Benf1ca TV 2
+#EXTBG:#ffffff
+http://31.204.128.112:8081/live/portugal2/playlist.m3u8
+
+#EXTINF:-1 channelId="-1" tvg-logo="http://thumbs.dreamstime.com/x/football-match-tv-sports-channel-15259755.jpg" , SP0RT 7V RUSS0
+#EXTBG:#ffffff
+http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
+
+#EXTINF:-1 channelId="-1" tvg-logo="http://s2.glbimg.com/V6JbSVrYmtFvsKTe-5taCvuM6d4=/620x470/s.glbimg.com/es/ge/f/original/2013/07/01/onair02_divulgacaocanalcombate_15.jpg" , C0MBA7E
+#EXTBG:#ffffff
+http://server1.livestreaming.ninja:1935/live/combate755/livestream.m3u8
+
+#EXTINF:-1 channelId="2599" , SP0R7V
+#EXTBG:#ffffff
+http://31.204.128.112:8081/live/sportv/playlist.m3u8
+
+#EXTINF:-1 channelId="2599" , SP0R7V
+#EXTBG:#ffffff
+http://213.163.65.116:8081/live/sportv/playlist.m3u8
+
+#EXTINF:-1 channelId="2599" , SP0R7V
+#EXTBG:#ffffff
+http://213.163.71.139:8081/live/sportv/playlist.m3u8
+
+#EXTINF:-1 channelId="2600" , SP0R7V2
+#EXTBG:#ffffff
+http://213.163.65.116:8081/live/sportv2/playlist.m3u8
+
+#EXTINF:-1 channelId="2600" , SP0R7V2
+#EXTBG:#ffffff
+http://213.163.71.139:8081/live/sportv2/playlist.m3u8
+
+#EXTINF:-1 channelId="1332" , Rea1 Madr!d
+#EXTBG:#ffffff
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_0700_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 channelId="-1" tvg-logo="http://www.iptvlinkss.com/wp-content/uploads/2015/12/football-report-fubo-tv-America-logo-design-26-304x200.png" ,FUB0-Report
+#EXTBG:#ffffff
+http://fubotv-origin.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:FootballReport_all/chunklist.m3u8
+
+
+
+
+
+#EXTINF:-1 channelId="1974" , E7V
+#EXTBG:#ffffff
+http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
+
+#EXTINF:-1 channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/ARTV_Logo.png" ,Cana1 Par1amento
+#EXTBG:#ffffff
+http://193.126.16.67/LiveXtendRecorder/2liveartvtmp/chunklist_w1713826381.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 channelId="208" , F0X
+#EXTBG:#ffffff
+http://server1.livestreaming.ninja:1935/live/fox1/livestream.m3u8
+
+#EXTINF:-1 channelId="40" , CAR700N NE7WORK
+#EXTBG:#ffffff
+http://31.204.128.127:8081/live/cartoon/playlist.m3u8
+
+
+
+
+#EXTINF:-1 channelId="-1" tvg-logo="http://www.livetvant.com/wp-content/uploads/2012/08/Fashion-TV-India.png" ,Fash!on7v
+#EXTBG:#ffffff
+http://edgeb.streaming.sk/fashiontv/fashiontv.stream/playlist.m3u8?wowzasessionid=1005101551
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, channelId="-1" tvg-logo="http://content-republic.tv/wp-content/uploads/2016/01/tv-galicia-logo.jpg" , GAL1Z1A 1
+#EXTBG:#ffffff
+http://media3.crtvg.es/live/tvge/hasbahca.m3u8
+
+#EXTINF:-1, channelId="-1" tvg-logo="http://content-republic.tv/wp-content/uploads/2016/01/tv-galicia-logo.jpg" ,  GAL1Z1A 2
+#EXTBG:#ffffff
+http://media3.crtvg.es/live/tvga/chunklist_w164960213.m3u8
