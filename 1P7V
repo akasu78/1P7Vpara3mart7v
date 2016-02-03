@@ -14,10 +14,22 @@ Editada a : 26-01-2016
 https://www.youtube.com/v/zB9HRWNjokY
 
 
+#EXTINF:-1 channelId="2645" , S1C
+#EXTBG:#ffffff
+http://213.13.26.11:1935/live/sic/inspirationlinks.m3u8
+#EXTINF:-1 channelId="2645" , S1C
+#EXTBG:#ffffff
+http://213.13.26.11:1935/live/sic/magellan.m3u8
 
 #EXTINF:-1 channelId="2647" , 7V1
 #EXTBG:#ffffff
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8
+#EXTINF:-1 channelId="2647" , 7V1
+#EXTBG:#ffffff
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/inspirationlinks.m3u8
+#EXTINF:-1 channelId="2647" , 7V1
+#EXTBG:#ffffff
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
 
 #EXTINF:-1 channelId="2646" , S1C N0TÍC1AS
 #EXTBG:#ffffff
