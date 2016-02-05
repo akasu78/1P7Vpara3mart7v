@@ -14,6 +14,8 @@ Editada a : 04-02-2016 ( esta a ser actualizada )
 #EXTSIZE:Big
 https://www.youtube.com/v/zB9HRWNjokY
 
+#EXTINF:-1 tvg-ID="RTP 1" tvg-name="RTP 1" tvg-logo="http://visaodigital.sytes.net/picons/rtp1.png" group-title="Portugueses",RTP 1
+http://tvip.sytes.net:8000/live/arno/v3/1.m3u8
 
 #EXTINF:-1 channelId="2645" , S1C
 #EXTBG:#ffffff
@@ -135,9 +137,11 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_0700_av-p.m3u8?sd=10&rebas
 #EXTBG:#ffffff
 http://fubotv-origin.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:FootballReport_all/chunklist.m3u8
 
+#EXTINF:-1 tvg-name=": TVC SERIES" tvg-logo="http://visaodigital.sytes.net/picons/tvshd.png",: TVC SERIES
+http://tvip.sytes.net:8000/live/arno/v3/40.ts
 
-
-
+#EXTINF:-1 tvg-name=": MOV" tvg-logo="http://visaodigital.sytes.net/picons/movhd.png",: MOV
+http://tvip.sytes.net:8000/live/arno/v3/41.ts
 
 #EXTINF:-1 channelId="1974" , E7V
 #EXTBG:#ffffff
