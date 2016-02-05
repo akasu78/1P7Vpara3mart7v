@@ -14,7 +14,8 @@ Editada a : 04-02-2016 ( esta a ser actualizada )
 #EXTSIZE:Big
 https://www.youtube.com/v/zB9HRWNjokY
 
-#EXTINF:-1 tvg-ID="RTP 1" tvg-name="RTP 1" tvg-logo="http://visaodigital.sytes.net/picons/rtp1.png" group-title="Portugueses",RTP 1
+#EXTINF:-1 channelId="2832" , R7P 1
+#EXTBG:#ffffff
 http://tvip.sytes.net:8000/live/arno/v3/1.m3u8
 
 #EXTINF:-1 channelId="2645" , S1C
@@ -23,6 +24,7 @@ http://213.13.26.11:1935/live/sic/inspirationlinks.m3u8
 #EXTINF:-1 channelId="2645" , S1C
 #EXTBG:#ffffff
 http://213.13.26.11:1935/live/sic/magellan.m3u8
+
 
 #EXTINF:-1 channelId="2647" , 7V1
 #EXTBG:#ffffff
@@ -34,36 +36,17 @@ http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/inspirationlinks.m3u8
 #EXTBG:#ffffff
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
 
+
 #EXTINF:-1 channelId="2646" , S1C N0TÍC1AS
 #EXTBG:#ffffff
 http://213.13.26.11:1935/live/sicnoticias/livestream.m3u8
 #EXTINF:-1 channelId="2646" , S1C N0TÍC1AS
 #EXTBG:#ffffff
 http://bit.do/kdgubdfgddbgb
-
-
-#EXTINF:-1 channelId="1583" , SP0RT 7V 1
-#EXTBG:#ffffff
-#EXTINF:-1 channelId="2645" , S1C
-#EXTBG:#ffffff
-http://213.13.26.11:1935/live/sic/magellan.m3u8
-#EXTINF:-1 channelId="2645" , S1C
-#EXTBG:#ffffff
-http://213.13.26.11:1935/live/sic/inspirationlinks.m3u8
-
-#EXTINF:-1 channelId="2647" , 7V1
-#EXTBG:#ffffff
-http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8
-
-#EXTINF:-1 channelId="2646" , S1C N0TÍC1AS
-#EXTBG:#ffffff
-http://213.13.26.11:1935/live/sicnoticias/livestream.m3u8
 #EXTINF:-1 channelId="2646" , S1C N0TÍC1AS
 #EXTBG:#ffffff
 http://213.13.26.11:1935/live/sicnoticias/inspirationlinks.m3u8
-#EXTINF:-1 channelId="2646" , S1C N0TÍC1AS
-#EXTBG:#ffffff
-http://bit.do/kdgubdfgddbgb
+
 
 #EXTINF:-1 channelId="2648" , 7V1 24
 #EXTBG:#ffffff
@@ -101,7 +84,8 @@ http://bit.do/834691970274833m3u8
 #EXTBG:#ffffff
 http://31.204.128.112:8081/live/portugal2/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="Porto Canal" tvg-name="PORTO CANAL" tvg-logo="http://visaodigital.sytes.net/picons/portocanal.png" group-title="Portugueses",PORTO CANAL
+#EXTINF:-1 channelId="2855" , P0RT0 CANA1
+#EXTBG:#ffffff
 http://tvip.sytes.net:8000/live/arno/v3/23.m3u8
 
 #EXTINF:-1 channelId="-1" tvg-logo="http://thumbs.dreamstime.com/x/football-match-tv-sports-channel-15259755.jpg" , SP0RT 7V RUSS0
@@ -140,16 +124,20 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_0700_av-p.m3u8?sd=10&rebas
 #EXTBG:#ffffff
 http://fubotv-origin.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:FootballReport_all/chunklist.m3u8
 
-#EXTINF:-1 tvg-ID="TVCINE 1" tvg-name="TVC1" tvg-logo="http://visaodigital.sytes.net/picons/tvc1hd.png" group-title="Portugueses",TVC1
+#EXTINF:-1 channelId="2872" , 7VC!ne 1
+#EXTBG:#ffffff
 http://tvip.sytes.net:8000/live/arno/v3/36.ts
 
-#EXTINF:-1 tvg-ID="TVCINE 3" tvg-name="TVC3 HD" tvg-logo="http://visaodigital.sytes.net/picons/tvc3hd.png" group-title="Portugueses",TVC3
+#EXTINF:-1 channelId="2876" , 7VC!ne 3
+#EXTBG:#ffffff
 http://tvip.sytes.net:8000/live/arno/v3/38.ts
 
-#EXTINF:-1 tvg-name=": TVC SERIES" tvg-logo="http://visaodigital.sytes.net/picons/tvshd.png",: TVC SERIES
+#EXTINF:-1 channelId="-1" tvg-logo="http://www.vodafone.pt/NR/rdonlyres/C5A2D9A7-5942-449F-89CE-A742965FFC00/0/destaque_canal_tvseries_449x196.jpg" , 7VC Ser!es
+#EXTBG:#ffffff
 http://tvip.sytes.net:8000/live/arno/v3/40.ts
 
-#EXTINF:-1 tvg-name=": MOV" tvg-logo="http://visaodigital.sytes.net/picons/movhd.png",: MOV
+#EXTINF:-1 channelId="2848" , M0V
+#EXTBG:#ffffff
 http://tvip.sytes.net:8000/live/arno/v3/41.ts
 
 #EXTINF:-1 channelId="1974" , E7V
@@ -167,7 +155,6 @@ http://193.126.16.67/LiveXtendRecorder/2liveartvtmp/chunklist_w1713826381.m3u8
 
 
 #EXTINF:-1  tvg-logo="http://www.boaviagem.org/images/countries/Brazil-Flag-128.png" , Brasil
-#EXTBG:http://www.boaviagem.org/images/countries/Brazil-Flag-128.png
 https://www.youtube.com/v/_Wl379jZ_kI
 
 
@@ -191,7 +178,8 @@ http://edgeb.streaming.sk/fashiontv/fashiontv.stream/playlist.m3u8?wowzasessioni
 
 
 
-
+#EXTINF:-1  tvg-logo="http://images.clipartlogo.com/files/ss/thumb/742/7427629/spain-flag-icon-with-official_small.jpg" , ESPA1NHÃ
+http://04.02.2016
 
 
 #EXTINF:-1, channelId="-1" tvg-logo="http://content-republic.tv/wp-content/uploads/2016/01/tv-galicia-logo.jpg" , GAL1Z1A 1
