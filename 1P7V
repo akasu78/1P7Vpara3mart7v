@@ -101,6 +101,9 @@ http://bit.do/834691970274833m3u8
 #EXTBG:#ffffff
 http://31.204.128.112:8081/live/portugal2/playlist.m3u8
 
+#EXTINF:-1 tvg-ID="Porto Canal" tvg-name="PORTO CANAL" tvg-logo="http://visaodigital.sytes.net/picons/portocanal.png" group-title="Portugueses",PORTO CANAL
+http://tvip.sytes.net:8000/live/arno/v3/23.m3u8
+
 #EXTINF:-1 channelId="-1" tvg-logo="http://thumbs.dreamstime.com/x/football-match-tv-sports-channel-15259755.jpg" , SP0RT 7V RUSS0
 #EXTBG:#ffffff
 http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
@@ -136,6 +139,12 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_0700_av-p.m3u8?sd=10&rebas
 #EXTINF:-1 channelId="-1" tvg-logo="http://www.iptvlinkss.com/wp-content/uploads/2015/12/football-report-fubo-tv-America-logo-design-26-304x200.png" ,FUB0-Report
 #EXTBG:#ffffff
 http://fubotv-origin.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:FootballReport_all/chunklist.m3u8
+
+#EXTINF:-1 tvg-ID="TVCINE 1" tvg-name="TVC1" tvg-logo="http://visaodigital.sytes.net/picons/tvc1hd.png" group-title="Portugueses",TVC1
+http://tvip.sytes.net:8000/live/arno/v3/36.ts
+
+#EXTINF:-1 tvg-ID="TVCINE 3" tvg-name="TVC3 HD" tvg-logo="http://visaodigital.sytes.net/picons/tvc3hd.png" group-title="Portugueses",TVC3
+http://tvip.sytes.net:8000/live/arno/v3/38.ts
 
 #EXTINF:-1 tvg-name=": TVC SERIES" tvg-logo="http://visaodigital.sytes.net/picons/tvshd.png",: TVC SERIES
 http://tvip.sytes.net:8000/live/arno/v3/40.ts
