@@ -193,3 +193,104 @@ http://media3.crtvg.es/live/tvge/hasbahca.m3u8
 #EXTINF:-1, channelId="-1" tvg-logo="http://content-republic.tv/wp-content/uploads/2016/01/tv-galicia-logo.jpg" ,  GAL1Z1A 2
 #EXTBG:#ffffff
 http://media3.crtvg.es/live/tvga/chunklist_w164960213.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 channelId="-1" tvg-logo="http://iptv-work.at.ua/images/160892c76bd94ad9b91b14ee335f9114.png" , ++ 18
+#EXTBG:#e300ff
+http://178.21.120.198
+
+#EXTINF:-1 channelId="2846" , Pr!va7e 7v
+#EXTBG:#e300ff
+http://178.21.120.198:1935/live3/_definst_/mp4:privatetv/playlist.m3u8
+#EXTINF:-1 channelId="520" , Hust1er HD
+#EXTBG:#e300ff
+http://178.21.120.198:1935/live3/_definst_/mp4:hustlerhd/playlist.m3u8
+#EXTINF:-1 channelId="519" , Hust1er Tv
+#EXTBG:#e300ff
+http://178.21.120.198:1935/live3/_definst_/mp4:hustlertv/playlist.m3u8
+
+#EXTINF:-1 channelId="658" , XXX
+#EXTBG:#e300ff
+http://46.249.213.93/iPhone/HLS_TS/broadcast/hot_shots-tablet.3gp/hot_shots-tablet.3gp-mr649k.m3u8
+
+#EXTINF:-1 channelId="-1" , S6X6
+#EXTBG:#e300ff
+http://46.182.25.34:1935/tv/1420/chunklist_w1894981632.m3u8
+
+#EXTINF:-1 channelId="518" , 3RAZZERS EUR0PE
+#EXTBG:#e300ff
+http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
+
+#EXTINF:-1 channelId="1741" , 0LALA
+#EXTBG:#e300ff
+http://4BA9EBDB07C05883:@5.159.96.170:8000/olala
+#EXTINF:-1 channelId="2265" , PASS10N XXX
+#EXTBG:#e300ff
+http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="https://photos.prnewswire.com/prnvar/20150526/219576LOGO" , JASM1N CH2NNEL
+#EXTBG:#e300ff
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
+#EXTINF:-1 channelId="-1" , 3ELLA CLUB
+#EXTBG:#e300ff
+rtsp://46.249.213.87/broadcast/bellaluz-tablet.3gp
+#EXTINF:-1 channelId="-1" , 3ELLA CLUB2
+#EXTBG:#e300ff
+http://46.249.213.87/iPhone/broadcast/bellaluz-iphone.3gp/bellaluz-iphone.3gp-mr413k.m3u8
+#EXTINF:-1,XXXX
+http://bit.ly/1JWhuY8
+#EXTINF:-1,hust1er 7v
+http://bit.ly/1QbtynR
+#EXTINF:-1,p!nk0 tv
+http://bit.ly/1JWhG9L
+#EXTINF:-1,pas!0n xxx
+http://bit.ly/1ZyDTN9
+#EXTINF:-1,***t6sent0
+http://bit.ly/1JWhNlG
+#EXTINF:-1,ce7toxcen7o 7v
+http://bit.ly/1n7FwoA
+#EXTINF:-1,V6nus 7V
+http://87.239.102.40:4022/udp/239.1.254.164:4000
+#EXTINF:0,D0RCEL
+http://213.136.90.30:8000/live/christop/christop/9220.ts
+#EXTINF:0,PR1VA7E
+http://213.136.90.30:8000/live/christop/christop/9217.ts
+#EXTINF:0,3RAZZERS
+http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
+#EXTINF:0,PASSI0N XXX
+http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
+#EXTINF:-1,As1an P0rn 1
+http://edge2.everyon.tv/etv2/pld1003/cookimonster.m3u8
+#EXTINF:-1,As!an P0rn 2
+http://edge2.everyon.tv/etv2/pld1008/cookimonster.m3u8
+#EXTINF:-1,As!an P0rn 3
+http://edge2.everyon.tv/etv2/pld1005/cookimonster.m3u8
+#EXTINF:-1,Jazm!n 7V
+rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
+#EXTINF:-1, Adu1t 4K: V0D1
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4
+#EXTINF:-1, Adu1t 4K: V0D2
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4
+#EXTINF:-1, Adu1t 4K: V0D3
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_tiffanyfox030514/content/vid01.mp4
+#EXTINF:-1, Adu1t 4K: V0D4
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan061914/content/vid01.mp4
+#EXTINF:-1, Adu1t 4K: V0D5
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_jennaross040414/content/vid01.mp4
+#EXTINF:-1, Adu1t 4K: V0D6
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan031914/content/vid01.mp4
+#EXTINF:-1, Adu1t 4K: V0D7
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloefoster021214/content/vid01.mp4
+#EXTINF:-1, Adu1t 4K: V0D8
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dillionharper030614/content/vid01.mp4
+#EXTINF:-1, Adu1t 4K: V0D9
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4
+#EXTINF:-1, Adu1t 4K: V0D10
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_avataylor_emmastoned032514/content/vid01.mp4
+#EXTINF:-1, Adu1t 4K: V0D11
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4
