@@ -17,6 +17,9 @@ https://www.youtube.com/v/zB9HRWNjokY
 #EXTINF:-1 channelId="2832" , R7P 1
 #EXTBG:#ffffff
 http://tvip.sytes.net:8000/live/arno/v3/1.m3u8
+#EXTINF:-1 channelId="2832" , R7P 1
+#EXTBG:#ffffff
+http://hyper.de1-eu.com:8000/live/saeid/saeid/657.m3u8
 
 #EXTINF:-1 channelId="2645" , S1C
 #EXTBG:#ffffff
