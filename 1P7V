@@ -69,6 +69,10 @@ http://213.13.26.11:1935/live/etv_direto/livestream.m3u8
 #EXTBG:http://rtc.cv/admin/imgBD/noticias/desporto01_26_10_2014.jpg
 https://www.youtube.com/v/urtwG0BjZck 
 
+#EXTINF:-1 channelId="-1" tvg-logo="http://futeboldistritaldeleiria.pt/wp-content/uploads/2014/08/2014-01-12153058_CA967162-B341-4FEB-88DD-FECB0766BF67738d42d9-134c-4fbe-a85a-da00e83fdc2015ccf53c-adf8-45c6-acfa-67ed40840392odia_imagem_grandept1.jpg" , Só J0G0S
+#EXTBG:#ffffff
+http://bit.do/J0G0P7
+
 #EXTINF:-1 channelId="1583" , SP0RT 7V 1
 #EXTBG:#ffffff
 http://31.204.128.112:8081/live/portugal1/playlist.m3u8
@@ -76,13 +80,26 @@ http://31.204.128.112:8081/live/portugal1/playlist.m3u8
 #EXTBG:#ffffff
 http://163.172.14.11:12000/live/RzfEucfe8v/UhtrJh608m/1286.m3u8
 
+#EXTINF:-1 channelId="2858" , SP0RT 7V 2
+#EXTBG:#ffffff
+http://91.204.214.106:23201/stolen/247h/xenixos.7z
+
 #EXTINF:-1 channelId="1585" , SP0RT 7V 3
 #EXTBG:#ffffff
 http://bit.do/8346917t7654673m3u8
+#EXTINF:-1 channelId="1585" , SP0RT 7V 3
+#EXTBG:#ffffff
+http://91.204.214.106:23201/stolen/240o/xenixos.7z
+
+#EXTINF:-1 channelId="2862" , SP0RT 7V 5
+http://91.204.214.106:23201/stolen/251z/xenixos.7z
 
 #EXTINF:-1 channelId="2834" , Benf1ca
 #EXTBG:#ffffff
 http://bit.do/834691970274833m3u8
+#EXTINF:-1 channelId="2834" , Benf1ca (Só jogos em Casa)
+#EXTBG:#ffffff
+http://bit.do/benf1ca6mcasa
 
 #EXTINF:0 channelId="2835" , Benf1ca TV 2
 #EXTBG:#ffffff
@@ -185,6 +202,11 @@ http://edgeb.streaming.sk/fashiontv/fashiontv.stream/playlist.m3u8?wowzasessioni
 #EXTINF:-1  tvg-logo="http://images.clipartlogo.com/files/ss/thumb/742/7427629/spain-flag-icon-with-official_small.jpg" , ESPA1NHÃ
 http://04.02.2016
 
+#EXTINF:-1 channelId="1320" , 7a 1
+http://api.iptv.ink/pl.m3u8?ch=35452405
+
+#EXTINF:-1 channelId="1321" , 7a 2
+http://api.iptv.ink/pl.m3u8?ch=91170153
 
 #EXTINF:-1, channelId="-1" tvg-logo="http://content-republic.tv/wp-content/uploads/2016/01/tv-galicia-logo.jpg" , GAL1Z1A 1
 #EXTBG:#ffffff
