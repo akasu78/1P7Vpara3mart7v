@@ -261,6 +261,30 @@ http://edgeb.streaming.sk/fashiontv/fashiontv.stream/playlist.m3u8?wowzasessioni
 #EXTINF:-1  tvg-logo="http://images.clipartlogo.com/files/ss/thumb/742/7427629/spain-flag-icon-with-official_small.jpg" , ESPA1NHÃ
 http://04.02.2016
 
+
+#EXTINF:-1,La1
+http://api.iptv.ink/pl.m3u8?ch=35452405
+#EXTINF:-1,La2
+http://api.iptv.ink/pl.m3u8?ch=91170153
+#EXTINF:-1,24
+http://api.iptv.ink/pl.m3u8?ch=92978413
+#EXTINF:-1,MEGA HD
+http://api.iptv.ink/pl.m3u8?ch=58315547
+#EXTINF:-1,LA RED EN VIVO HD
+http://api.iptv.ink/pl.m3u8?ch=14527508
+#EXTINF:-1,TV Galicia
+http://api.iptv.ink/pl.m3u8?ch=18178909
+#EXTINF:-1,LA SEXTA HD
+http://api.iptv.ink/pl.m3u8?ch=88365689
+#EXTINF:-1,ANTENA 3 HD
+http://api.iptv.ink/pl.m3u8?ch=62326989
+#EXTINF:-1,Russia Today HD
+http://api.iptv.ink/pl.m3u8?ch=84555053
+#EXTINF:-1,TELESUR
+http://api.iptv.ink/pl.m3u8?ch=79272030
+
+
+
 #EXTINF:-1 channelId="1320" , 7a 1
 #EXTBG:#ffffff
 http://api.iptv.ink/pl.m3u8?ch=35452405
