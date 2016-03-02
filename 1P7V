@@ -26,6 +26,9 @@ http://hyper.de1-eu.com:8000/live/saeid/saeid/657.m3u8
 http://213.13.26.11:1935/live/sic/inspirationlinks.m3u8
 #EXTINF:-1 channelId="2645" , S1C
 #EXTBG:#ffffff
+http://213.13.26.11:1935/live/sic/livestream.m3u8
+#EXTINF:-1 channelId="2645" , S1C
+#EXTBG:#ffffff
 http://213.13.26.11:1935/live/sic/magellan.m3u8
 #EXTINF:-1 channelId="2645" , S1C
 #EXTBG:#ffffff
