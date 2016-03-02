@@ -93,8 +93,8 @@ http://31.204.128.112:8081/live/portugal1/playlist.m3u8
 #EXTBG:#ffffff
 http://163.172.14.11:12000/live/RzfEucfe8v/UhtrJh608m/1286.m3u8
 
-#EXTINF:-1 , SP0RT 7V 1
-http://bit.do/testesporttv1
+#EXTINF:-1 channelId="1583" , SP0RT 7V 1
+http://iptvbox.noip.us:9998/live/atik/atik/819.m3u8
 
 #EXTINF:-1 channelId="2858" , SP0RT 7V 2
 #EXTBG:#ffffff
