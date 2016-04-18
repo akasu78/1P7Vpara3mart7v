@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,  tvg-logo="http://pumpkin.pt/article/4486/featured_large.jpg",Regionais 
-http://62.210.248.96:11000
-
 #EXTINF:-1,TV LISBOA
 http://213.13.26.11:1935/live/tvldireto/livestream.m3u8
 
@@ -75,5 +72,3 @@ http://213.13.26.11:1935/live/santacruz.stream/livestream.m3u8
 #EXTINF:-1,PRAIA SUPER TUBOS [WEBCAM]
 http://213.13.26.11:1935/live/supertubos.stream/livestream.m3u8
 
-#EXTINF:-1,  tvg-logo="http://feviana.com.br/wp-content/uploads/2014/06/+181-1.jpg",Porno
-http://62.210.248.96:11000
