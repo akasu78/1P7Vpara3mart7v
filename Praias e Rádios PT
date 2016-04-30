@@ -1,0 +1,122 @@
+#EXTM3U
+
+#EXTINF:-1,TV LISBOA
+http://213.13.26.11:1935/live/tvldireto/livestream.m3u8
+
+#EXTINF:-1,TV CANÇÃO NOVA PORTUGAL HD
+http://cancaonova-push-live.hls.adaptive.level3.net:80/hls-live/xlpartner-cancaonova/_definst_/live/stream1.m3u8
+
+#EXTINF:-1,TV MANÁ-1
+http://195.22.19.179:1935/manasat/manasat1/live.m3u8
+
+#EXTINF:-1,IGREJA ONLINE TV
+http://195.22.19.179:1935/igronl/igronline1/live.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="http://lediniz.com.br/wp-content/uploads/2013/03/Arautos_NSa-Fatima.png", CAPELINHA FÁTIMA
+http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
+
+#EXTINF:-1,ODIVELAS TV HD
+http://213.13.26.11:1935/live/odivelastv/livestream.m3u8
+
+#EXTINF:-1,PRAIA CARCAVELOS [WEBCAM]
+http://213.13.26.11:1935/live/carcavelos.stream/livestream.m3u8
+
+#EXTINF:-1,PRAIA COSTA DA CAPARICA [WEBCAM]
+http://213.13.26.11:1935/live/costa.stream/livestream.m3u8
+
+#EXTINF:-1,PRAIA DA ERICEIRA [WEBCAM]
+http://213.13.26.11:1935/live/ericeira.stream/livestream.m3u8
+
+#EXTINF:-1,PRAIA DA LUZ [WEBCAM]
+http://213.13.26.11:1935/live/luz.stream/livestream.m3u8
+
+#EXTINF:-1,PRAIA DA BARRA - AVEIRO [WEBCAM] off
+http://213.13.26.11:1935/live/aveiro.stream/livestream.m3u8
+
+#EXTINF:-1,PRAIA DE ESPINHO [WEBCAM] 
+http://213.13.26.11:1935/live/espinho.stream/livestream.m3u8
+
+#EXTINF:-1,PRAIA DE PENICHE [WEBCAM] 
+http://213.13.26.11:1935/live/peniche.stream/livestream.m3u8
+
+#EXTINF:-1,PRAIA DE SÃO PEDRO [WEBCAM] 
+http://213.13.26.11:1935/live/saopedro.stream/livestream.m3u8
+
+#EXTINF:-1,PRAIA DO GUINCHO [WEBCAM] 
+http://213.13.26.11:1935/live/guincho.stream/livestream.m3u8
+
+#EXTINF:-1,PRAIA DO NORTE [WEBCAM]
+http://213.13.26.11:1935/live/norte.stream/livestream.m3u8
+
+#EXTINF:-1,PRAIA GRANDE [WEBCAM]
+http://213.13.26.11:1935/live/grande.stream/livestream.m3u8
+
+#EXTINF:-1,PRAIA LEÇA DA PALMEIRA [WEBCAM]
+http://213.13.26.11:1935/live/leca.stream/livestream.m3u8
+
+#EXTINF:-1,PRAIA LIGA MOCHE SURFE [WEBCAM]
+http://213.13.26.11:1935/live/surfstream.stream/livestream.m3u8
+
+#EXTINF:-1,PRAIA MADEIRA JARDIM DO MAR [WEBCAM]
+http://213.13.26.11:1935/live/jardim.stream/livestream.m3u8
+
+#EXTINF:-1,PRAIA MATOSINHOS [WEBCAM]
+http://213.13.26.11:1935/live/matosinhos.stream/livestream.m3u8
+
+#EXTINF:-1,PRAIA RIBEIRA [WEBCAM]
+http://213.13.26.11:1935/live/ribeira.stream/livestream.m3u8
+
+#EXTINF:-1,PRAIA SANTA CRUZ
+http://213.13.26.11:1935/live/santacruz.stream/livestream.m3u8
+
+#EXTINF:-1,PRAIA SUPER TUBOS [WEBCAM]
+http://213.13.26.11:1935/live/supertubos.stream/livestream.m3u8
+
+#EXTINF:-1,RADIOS
+http://000.000.000.000
+
+#EXTINF:-1 radio="true" tvg-logo="http://www.thelogodb.com/images/media/logo/txtrqy1435096777.png/medium",COMERCIAL
+rtmp://195.23.102.206/comerciallc playpath=comerciallc.sdp swfUrl=http://radiocomercial.iol.pt/player/scripts/player.swf pageUrl=http://radiocomercial.iol.pt/player/
+
+#EXTINF:-1 radio="true" tvg-logo="http://www.thelogodb.com/images/media/logo/wsrpqu1435094246.png/medium",RFM
+http://7719.live.streamtheworld.com/RFM_SC
+
+#EXTINF:-1 radio="true" tvg-logo="http://cdn-radiotime-logos.tunein.com/s25161q.png",NOVA ERA
+http://stream.radio.com.pt:9478/stream
+
+#EXTINF:-1 radio="true" tvg-logo="http://www.thelogodb.com/images/media/logo/uqppyr1435076288.png/medium",ANTENA 1
+mms://rdp.oninet.pt/antena1
+
+#EXTINF:-1 radio="true" tvg-logo="http://www.thelogodb.com/images/media/logo/ytvypx1435078130.png/medium",ANTENA 2
+rtmp://195.245.168.29:1935/liveradio/ playpath=antena280a swfUrl=http://cdn.radiosfm.org/swf/soundmanager2_flash9.swf live=1 timeout=15 pageUrl=http://www.radioonline.com.pt
+
+#EXTINF:-1 radio="true" tvg-logo="http://www.thelogodb.com/images/media/logo/vtwvqs1435077533.png/medium",ANTENA 3
+mms://rdp.oninet.pt/antena3
+
+#EXTINF:-1 radio="true" tvg-logo="http://www.thelogodb.com/images/media/logo/xpsxsy1435080103.png/medium",TSF
+mmsh://emdirecto.tsf.pt/tsfdirecto?MSWMExt=.asf
+
+#EXTINF:-1 radio="true" tvg-logo="http://www.thelogodb.com/images/media/logo/sqsyux1435094370.png/medium",RR
+http://7709.live.streamtheworld.com:3690/RADIO_RENASCENCA_SC?.wma
+
+#EXTINF:-1 radio="true" tvg-logo="http://www.thelogodb.com/images/media/logo/uquytr1435081553.png/medium",VODAFONE FM
+rtmp://195.23.102.206/autometadata5/ playpath=vodafone.sdp swfUrl=http://www.vodafone.fm/flash/soundmanager2_flash9.swf?ts=1425470563156 live=1 pageUrl=http://www.vodafone.fm/
+
+#EXTINF:-1 radio="true" tvg-logo="http://www.thelogodb.com/images/media/logo/tuqsqu1435098558.png/medium",SMOOTH FM
+rtmp://195.23.102.206/smoothlc playpath=smoothlc.sdp
+
+#EXTINF:-1 radio="true" tvg-logo="http://cdn-radiotime-logos.tunein.com/s83943q.png",OXIGÊNIO
+http://centova.radios.pt:9498
+
+#EXTINF:-1 radio="true" tvg-logo="http://www.thelogodb.com/images/media/logo/vtxsxr1435078410.png/medium",CIDADE FM
+rtmp://195.23.102.206:1935/cidadefmlc playpath=cidadefmlc.sdp
+
+#EXTINF:-1 radio="true" tvg-logo="http://www.radarlisboa.fm/images/index_r2_c1.png",RADAR
+http://stream.radio.com.pt:8497/stream
+
+#EXTINF:-1 radio="true" tvg-logo="http://www.thelogodb.com/images/media/logo/wpyvux1435094520.png/medium",MEGA HITS
+http://7719.live.streamtheworld.com:3690/MEGA_HITS_SC?.wma
+
+#EXTINF:-1 radio="true" tvg-logo="http://www.thelogodb.com/images/media/logo/sxvxus1435075964.png/medium",M80
+rtmp://195.23.102.206/m80lc playpath=m80lc.sdp swfUrl=m80.iol.pt/player/player.swf?v=1.0 live=1 pageUrl=http://m80.iol.pt/
+
